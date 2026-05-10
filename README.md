@@ -48,6 +48,6 @@ Document intelligence platform enabling semantic search and question answering o
 
 ## Connect With Me
 
-LinkedIn: [your-linkedin]
+LinkedIn: (https://www.linkedin.com/in/likhithagaddam/)
 
 Email: [gaddamlikhitha.cse@gmail.com](mailto:gaddamlikhitha.cse@gmail.com)

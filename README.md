@@ -1,5 +1,3 @@
-# About-Me
-
 # Hi, I'm Sai Likhitha Gaddam 👋
 
 AI/ML Engineer focused on building LLM applications, RAG pipelines, backend APIs, and AI automation systems.
